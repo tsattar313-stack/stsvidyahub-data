@@ -1,6 +1,8 @@
 {
   "examId": "ias_exam_2026",
   "examName": "IAS Competitive Exam",
+  "version": 1,
+  "lastUpdated": "2026-10-14",
   "banner": {
     "greeting": "Good Morning",
     "subtext": "Stay consistent, success follows."
@@ -25,7 +27,7 @@
       "id": "ias_pyq_1",
       "title": "IAS Previous Year Paper 2025",
       "date": "2026-10-14",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/your-username/your-repo@main/ias/ias_2025.json"
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/ias_2025.json"
     }
   ],
   "mockTest": {
@@ -48,7 +50,7 @@
     "notes": {
       "title": "Notes",
       "subtitle": "Subject-wise notes",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/your-username/your-repo@main/ias/notes.json"
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/notes.json"
     },
     "syllabus": {
       "title": "Syllabus",

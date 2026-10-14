@@ -18,10 +18,10 @@
     "subtitle": "Subject-wise daily practice sets.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
-      "questions/talathi_marathi.json",
-      "questions/talathi_gk.json",
-      "questions/talathi_math.json",
-      "questions/talathi_english.json"
+      "questions/hindiQuestions.json",
+      "questions/matathiQuestions.json",
+      "questions/mathQuestions.json",
+      "questions/scienceQuestions.json"
     ]
   },
   "previousYearUpdates": [

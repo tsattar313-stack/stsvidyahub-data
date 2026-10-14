@@ -1,7 +1,7 @@
 {
   "examId": "talathi_exam_2026",
   "examName": "Talathi Bharti Exam",
-  "version": 2,
+  "version": 4,
   "lastUpdated": "2026-10-15",
   "banner": {
     "greeting": "Namaskar",
@@ -9,17 +9,17 @@
   },
   "allowedSubjects": [
     "Marathi",
-    "General Knowledge",
-    "Mathematics & Reasoning",
-    "English"
+    "English",
+    "Mathematics",
+    "Science"
   ],
   "dailyQuiz": {
     "title": "Daily Quiz",
     "subtitle": "Subject-wise daily practice sets.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
-      "questions/hindiQuestions.json",
-      "questions/matathiQuestions.json",
+      "questions/marathiQuestions.json",
+      "questions/englishQuestions.json",
       "questions/mathQuestions.json",
       "questions/scienceQuestions.json"
     ]
@@ -34,21 +34,21 @@
   ],
   "mockTest": {
     "title": "Full Length Talathi Mock Test",
-    "subtitle": "Complete exam pattern test (100 Questions)",
-    "totalQuestions": 25,
-    "timeMinutes": 30,
+    "subtitle": "Complete exam pattern test (20 Questions)",
+    "totalQuestions": 20,
+    "timeMinutes": 25,
     "assetMapping": [
-      { "subject": "Marathi", "assetFile": "questions/talathi_marathi.json", "count": 6 },
-      { "subject": "GK", "assetFile": "questions/talathi_gk.json", "count": 7 },
-      { "subject": "Math", "assetFile": "questions/talathi_math.json", "count": 6 },
-      { "subject": "English", "assetFile": "questions/talathi_english.json", "count": 6 }
+      { "subject": "Marathi", "assetFile": "questions/marathiQuestions.json", "count": 5 },
+      { "subject": "English", "assetFile": "questions/englishQuestions.json", "count": 5 },
+      { "subject": "Math", "assetFile": "questions/mathQuestions.json", "count": 5 },
+      { "subject": "Science", "assetFile": "questions/scienceQuestions.json", "count": 5 }
     ]
   },
   "explore": {
     "questions": {
       "title": "Questions Bank",
       "subtitle": "Chapter-wise MCQs",
-      "assetFile": "questions/talathi_all_questions.json"
+      "assetFile": "questions/marathiQuestions.json"
     },
     "notes": {
       "title": "Notes & Study Material",
@@ -59,7 +59,10 @@
       "title": "Syllabus",
       "subtitle": "Detailed Talathi Syllabus",
       "assetFiles": [
-        "syllabus/talathi_syllabus.json"
+        "syllabus/marathi.json",
+        "syllabus/english.json",
+        "syllabus/math.json",
+        "syllabus/geography.json"
       ]
     }
   }

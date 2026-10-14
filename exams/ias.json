@@ -1,1 +1,63 @@
-
+{
+  "examId": "ias_exam_2026",
+  "examName": "IAS Competitive Exam",
+  "banner": {
+    "greeting": "Good Morning",
+    "subtext": "Stay consistent, success follows."
+  },
+  "allowedSubjects": [
+    "Hindi",
+    "English",
+    "Marathi"
+  ],
+  "dailyQuiz": {
+    "title": "Daily Quiz",
+    "subtitle": "Test your knowledge daily with 3 subjects.",
+    "questionsPerSubject": 5,
+    "assetSourceFiles": [
+      "questions/hindiQuestions.json",
+      "questions/englishQuestions.json",
+      "questions/marathiQuestions.json"
+    ]
+  },
+  "previousYearUpdates": [
+    {
+      "id": "ias_pyq_1",
+      "title": "IAS Previous Year Paper 2025",
+      "date": "2026-10-14",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/your-username/your-repo@main/ias/ias_2025.json"
+    }
+  ],
+  "mockTest": {
+    "title": "Full Length Mock Test",
+    "subtitle": "Real exam pattern tests from assets",
+    "totalQuestions": 30,
+    "timeMinutes": 60,
+    "assetMapping": [
+      { "subject": "Hindi", "assetFile": "questions/hindiQuestions.json", "count": 10 },
+      { "subject": "English", "assetFile": "questions/englishQuestions.json", "count": 10 },
+      { "subject": "Marathi", "assetFile": "questions/marathiQuestions.json", "count": 10 }
+    ]
+  },
+  "explore": {
+    "questions": {
+      "title": "Questions",
+      "subtitle": "Practice MCQs",
+      "assetFile": "questions/all_questions.json"
+    },
+    "notes": {
+      "title": "Notes",
+      "subtitle": "Subject-wise notes",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/your-username/your-repo@main/ias/notes.json"
+    },
+    "syllabus": {
+      "title": "Syllabus",
+      "subtitle": "Complete syllabus",
+      "assetFiles": [
+        "syllabus/hindiSyllabus.json",
+        "syllabus/englishSyllabus.json",
+        "syllabus/marathiSyllabus.json"
+      ]
+    }
+  }
+}

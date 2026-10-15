@@ -1,8 +1,8 @@
 {
-  "version": 4,
-  "lastUpdated": "2026-10-14",
+  "version": 5,
+  "lastUpdated": "2026-10-15",
   "exams": [
-        {
+    {
       "examId": "talathi_exam_2026",
       "examName": "Talathi Exam",
       "category": "Maharashtra Exams",
@@ -13,7 +13,12 @@
       "examName": "IAS Competitive Exam",
       "category": "UPSC",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ias.json"
+    },
+    {
+      "examId": "mpsc_psi_exam_2026",
+      "examName": "MPSC PSI Exam",
+      "category": "Maharashtra Exams",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/psi.json"
     }
-
   ]
 }

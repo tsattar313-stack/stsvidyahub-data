@@ -1,0 +1,66 @@
+{
+  "examId": "mpsc_psi_exam_2026",
+  "examName": "MPSC Police Sub-Inspector (PSI) Exam",
+  "version": 1,
+  "lastUpdated": "2026-10-15",
+  "banner": {
+    "greeting": "Jai Hind, Officer",
+    "subtext": "Dedication and discipline lead to success."
+  },
+  "allowedSubjects": [
+    "Marathi",
+    "English",
+    "General Studies",
+    "Law & Administration"
+  ],
+  "dailyQuiz": {
+    "title": "Daily Quiz",
+    "subtitle": "Test your knowledge daily with core PSI subjects.",
+    "questionsPerSubject": 5,
+    "assetSourceFiles": [
+      "questions/psi_marathi_questions.json",
+      "questions/psi_english_questions.json",
+      "questions/psi_gs_questions.json"
+    ]
+  },
+  "previousYearUpdates": [
+    {
+      "id": "psi_pyq_1",
+      "title": "MPSC PSI Previous Year Paper 2024",
+      "date": "2026-10-15",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/psi_2024.json"
+    }
+  ],
+  "mockTest": {
+    "title": "Full Length Mock Test",
+    "subtitle": "Real exam pattern tests from assets",
+    "totalQuestions": 30,
+    "timeMinutes": 60,
+    "assetMapping": [
+      { "subject": "Marathi", "assetFile": "questions/psi_marathi_questions.json", "count": 10 },
+      { "subject": "English", "assetFile": "questions/psi_english_questions.json", "count": 10 },
+      { "subject": "General Studies", "assetFile": "questions/psi_gs_questions.json", "count": 10 }
+    ]
+  },
+  "explore": {
+    "questions": {
+      "title": "Questions",
+      "subtitle": "Practice MCQs",
+      "assetFile": "questions/psi_all_questions.json"
+    },
+    "notes": {
+      "title": "Notes",
+      "subtitle": "Subject-wise notes",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/psi_notes.json"
+    },
+    "syllabus": {
+      "title": "Syllabus",
+      "subtitle": "Complete syllabus",
+      "assetFiles": [
+        "syllabus/psi_marathi_syllabus.json",
+        "syllabus/psi_english_syllabus.json",
+        "syllabus/psi_gs_syllabus.json"
+      ]
+    }
+  }
+}

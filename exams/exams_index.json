@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-10-14",
   "exams": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "examId": "talathi_exam_2026",
-      "examName": "Talathi Bharti Exam",
+      "examName": "Talathi Exam",
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/talathi.json"
     }

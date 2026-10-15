@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 5,
   "lastUpdated": "2026-10-15",
   "exams": [
     {
@@ -19,6 +19,12 @@
       "examName": "MPSC PSI Exam",
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/psi.json"
+    },
+    {
+      "examId": "mpsc_sp_exam_2026",
+      "examName": "MPSC SP Exam",
+      "category": "Maharashtra Exams",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/sp.json"
     }
   ]
 }

@@ -1,12 +1,8 @@
 {
   "examId": "talathi_exam_2026",
-  "examName": "Talathi Bharti Exam",
-  "version": 4,
+  "examName": "Talathi Exam",
+  "version": 5,
   "lastUpdated": "2026-10-15",
-  "banner": {
-    "greeting": "Namaskar",
-    "subtext": "Practice hard for MPSC & Talathi success."
-  },
   "allowedSubjects": [
     "Marathi",
     "English",
@@ -37,18 +33,23 @@
     "subtitle": "Complete exam pattern test (20 Questions)",
     "totalQuestions": 20,
     "timeMinutes": 25,
-    "assetMapping": [
-      { "subject": "Marathi", "assetFile": "questions/marathiQuestions.json", "count": 5 },
-      { "subject": "English", "assetFile": "questions/englishQuestions.json", "count": 5 },
-      { "subject": "Math", "assetFile": "questions/mathQuestions.json", "count": 5 },
-      { "subject": "Science", "assetFile": "questions/scienceQuestions.json", "count": 5 }
+  "assetMapping": [
+      { "assetFile": "questions/marathiQuestions.json", "count": 5 },
+      { "assetFile": "questions/englishQuestions.json", "count": 5 },
+      { "assetFile": "questions/mathQuestions.json", "count": 5 },
+      { "assetFile": "questions/scienceQuestions.json", "count": 5 }
     ]
   },
   "explore": {
     "questions": {
       "title": "Questions Bank",
       "subtitle": "Chapter-wise MCQs",
-      "assetFile": "questions/marathiQuestions.json"
+      "assetFiles": [
+        "questions/marathiQuestions.json",
+        "questions/englishQuestions.json",
+        "questions/mathQuestions.json",
+        "questions/scienceQuestions.json"
+      ]
     },
     "notes": {
       "title": "Notes & Study Material",

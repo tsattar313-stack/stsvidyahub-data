@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "lastUpdated": "2026-10-16",
   "exams": [
     {
@@ -25,12 +25,6 @@
       "examName": "MPSC SP Exam",
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/sp.json"
-    },
-    {
-      "examId": "gramsevak_exam_2026",
-      "examName": "Gramsevak Exam",
-      "category": "Maharashtra Exams",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/gramsevak.json"
     }
   ]
 }

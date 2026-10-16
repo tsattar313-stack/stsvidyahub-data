@@ -1,8 +1,8 @@
 {
   "examId": "talathi_exam_2026",
   "examName": "Talathi Exam",
-  "version": 5,
-  "lastUpdated": "2026-10-15",
+  "version": 6,
+  "lastUpdated": "2026-10-16",
   "allowedSubjects": [
     "Marathi",
     "English",
@@ -30,14 +30,34 @@
   ],
   "mockTest": {
     "title": "Full Length Talathi Mock Test",
-    "subtitle": "Complete exam pattern test (20 Questions)",
+    "subtitle": "Complete exam pattern test with sectional timing (20 Questions)",
+    "timingType": "SECTIONAL",
     "totalQuestions": 20,
-    "timeMinutes": 25,
-  "assetMapping": [
-      { "assetFile": "questions/marathiQuestions.json", "count": 5 },
-      { "assetFile": "questions/englishQuestions.json", "count": 5 },
-      { "assetFile": "questions/mathQuestions.json", "count": 5 },
-      { "assetFile": "questions/scienceQuestions.json", "count": 5 }
+    "assetMapping": [
+      {
+        "subject": "Marathi",
+        "assetFile": "questions/marathiQuestions.json",
+        "count": 5,
+        "timeMinutes": 6
+      },
+      {
+        "subject": "English",
+        "assetFile": "questions/englishQuestions.json",
+        "count": 5,
+        "timeMinutes": 6
+      },
+      {
+        "subject": "Mathematics",
+        "assetFile": "questions/mathQuestions.json",
+        "count": 5,
+        "timeMinutes": 7
+      },
+      {
+        "subject": "Science",
+        "assetFile": "questions/scienceQuestions.json",
+        "count": 5,
+        "timeMinutes": 6
+      }
     ]
   },
   "explore": {

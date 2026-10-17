@@ -1,7 +1,7 @@
 {
   "examId": "mpsc_ka_exam_2026",
   "examName": "MPSC Agriculture Officer (KA) Exam",
-  "version": 8,
+  "version": 9,
   "lastUpdated": "2026-10-17",
   "allowedSubjects": [
     "Marathi",
@@ -16,7 +16,7 @@
     "assetSourceFiles": [
          "questions/marathiQuestions.json",
       "questions/englishQuestions.json",
-      "questions/mathQuestions.json",
+      "questions/geographyQuestions.json",
       "questions/scienceQuestions.json"
     ]
   },

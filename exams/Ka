@@ -1,0 +1,90 @@
+{
+  "examId": "mpsc_ka_exam_2026",
+  "examName": "MPSC Agriculture Officer (KA) Exam",
+  "version": 7,
+  "lastUpdated": "2026-10-17",
+  "allowedSubjects": [
+    "Marathi",
+    "English",
+    "General Studies",
+    "Agricultural Science & Engineering"
+  ],
+  "dailyQuiz": {
+    "title": "Daily Quiz",
+    "subtitle": "Subject-wise daily practice sets for Agriculture Officer.",
+    "questionsPerSubject": 5,
+    "assetSourceFiles": [
+      "questions/ka_marathi_questions.json",
+      "questions/ka_english_questions.json",
+      "questions/ka_gs_questions.json",
+      "questions/ka_agri_questions.json"
+    ]
+  },
+  "previousYearUpdates": [
+    {
+      "id": "ka_pyq_1",
+      "title": "MPSC Agriculture Officer Previous Paper 2024",
+      "date": "2026-10-15",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/ka_2024.json"
+    }
+  ],
+  "mockTest": {
+    "title": "Full Length KA Mock Test",
+    "subtitle": "Complete exam pattern test with sectional timing (20 Questions)",
+    "timingType": "SECTIONAL",
+    "totalQuestions": 20,
+    "assetMapping": [
+      {
+        "subject": "Marathi",
+        "assetFile": "questions/ka_marathi_questions.json",
+        "count": 5,
+        "timeMinutes": 6
+      },
+      {
+        "subject": "English",
+        "assetFile": "questions/ka_english_questions.json",
+        "count": 5,
+        "timeMinutes": 6
+      },
+      {
+        "subject": "General Studies",
+        "assetFile": "questions/ka_gs_questions.json",
+        "count": 5,
+        "timeMinutes": 7
+      },
+      {
+        "subject": "Agricultural Science & Engineering",
+        "assetFile": "questions/ka_agri_questions.json",
+        "count": 5,
+        "timeMinutes": 6
+      }
+    ]
+  },
+  "explore": {
+    "questions": {
+      "title": "Questions Bank",
+      "subtitle": "Chapter-wise MCQs",
+      "assetFiles": [
+        "questions/ka_marathi_questions.json",
+        "questions/ka_english_questions.json",
+        "questions/ka_gs_questions.json",
+        "questions/ka_agri_questions.json"
+      ]
+    },
+    "notes": {
+      "title": "Notes & Study Material",
+      "subtitle": "Important short notes",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ka_notes.json"
+    },
+    "syllabus": {
+      "title": "Syllabus",
+      "subtitle": "Detailed MPSC KA Syllabus",
+      "assetFiles": [
+        "syllabus/ka_marathi.json",
+        "syllabus/ka_english.json",
+        "syllabus/ka_gs.json",
+        "syllabus/ka_agri.json"
+      ]
+    }
+  }
+}

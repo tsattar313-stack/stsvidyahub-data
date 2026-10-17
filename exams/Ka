@@ -14,10 +14,10 @@
     "subtitle": "Subject-wise daily practice sets for Agriculture Officer.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
-      "questions/ka_marathi_questions.json",
-      "questions/ka_english_questions.json",
-      "questions/ka_gs_questions.json",
-      "questions/ka_agri_questions.json"
+         "questions/marathiQuestions.json",
+      "questions/englishQuestions.json",
+      "questions/mathQuestions.json",
+      "questions/scienceQuestions.json"
     ]
   },
   "previousYearUpdates": [

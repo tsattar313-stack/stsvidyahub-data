@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "lastUpdated": "2026-10-17",
   "exams": [
     {
@@ -25,6 +25,18 @@
       "examName": "MPSC SP Exam",
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/sp.json"
+    },
+    {
+      "examId": "gramsevak_exam_2026",
+      "examName": "Gramsevak Exam",
+      "category": "Maharashtra Exams",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/gramsevak.json"
+    },
+    {
+      "examId": "mpsc_ka_exam_2026",
+      "examName": "MPSC Krushi Adhikari (KA) Exam",
+      "category": "Maharashtra Exams",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ka.json"
     }
   ]
 }

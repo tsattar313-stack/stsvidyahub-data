@@ -1,9 +1,9 @@
 {
-  "version": 11,
+  "version": 12,
   "lastUpdated": "2026-10-17",
   "exams": [
     {
-      "examId": "talathi_exam_2026",
+      "examId": "Talathi",
       "examName": "Talathi Exam",
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/talathi.json"
@@ -25,12 +25,6 @@
       "examName": "MPSC SP Exam",
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/sp.json"
-    },
-    {
-      "examId": "gramsevak_exam_2026",
-      "examName": "Gramsevak Exam",
-      "category": "Maharashtra Exams",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/gramsevak.json"
     },
     {
       "examId": "mpsc_ka_exam_2026",

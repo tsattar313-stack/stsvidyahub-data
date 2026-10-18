@@ -1,7 +1,13 @@
 {
-  "version": 15,
+  "version": 16,
   "lastUpdated": "2026-10-18",
   "exams": [
+    {
+      "examId": "spr",
+      "examName": "sprq",
+      "category": "apna exam",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/spr.json"
+    },
      {
       "examId": "shaikh",
       "examName": "shaikh tofiq",

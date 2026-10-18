@@ -1,7 +1,7 @@
 {
   "examId": "mpsc_psi",
   "examName": "MPSC PSI Exam",
-  "version": 2,
+  "version": 3,
   "lastUpdated": "2026-10-18",
   "dailyQuiz": {
     "title": "Daily Quiz",
@@ -23,7 +23,7 @@
   ],
   "mockTest": {
     "title": "Full Length MPSC PSI Mock Test",
-    "subtitle": "Complete exam pattern test with sectional timing (20 Questions)",
+    "subtitle": "Complete (20 Questions)",
     "timingType": "SECTIONAL",
     "totalQuestions": 20,
     "assetMapping": [

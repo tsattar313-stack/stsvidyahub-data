@@ -1,64 +1,75 @@
 {
-  "examId": "ias_exam_2026",
-  "examName": "IAS Competitive Exam",
-  "version": 1,
-  "lastUpdated": "2026-10-14",
-  "banner": {
-    "greeting": "Good Morning",
-    "subtext": "Stay consistent, success follows."
-  },
-  "allowedSubjects": [
-    "Hindi",
-    "English",
-    "Marathi"
-  ],
+  "examId": "ias",
+  "examName": "IAS Exam",
+  "version": 2,
+  "lastUpdated": "2026-10-18",
   "dailyQuiz": {
     "title": "Daily Quiz",
-    "subtitle": "Test your knowledge daily with 3 subjects.",
+    "subtitle": "Subject-wise daily practice sets.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
-      "questions/hindiQuestions.json",
+      "questions/marathiQuestions.json",
       "questions/englishQuestions.json",
-      "questions/marathiQuestions.json"
+      "questions/scienceQuestions.json"
     ]
   },
   "previousYearUpdates": [
     {
       "id": "ias_pyq_1",
-      "title": "IAS Previous Year Paper 2025",
+      "title": "IAS Previous Paper 2025",
       "date": "2026-10-14",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/ias_2025.json"
     }
   ],
   "mockTest": {
-    "title": "Full Length Mock Test",
-    "subtitle": "Real exam pattern tests from assets",
-    "totalQuestions": 30,
-    "timeMinutes": 60,
+    "title": "Full Length IAS Mock Test",
+    "subtitle": "Complete tofiq Shaikh timing (20 Questions)",
+    "timingType": "SECTIONAL",
+    "totalQuestions": 20,
     "assetMapping": [
-      { "subject": "Hindi", "assetFile": "questions/hindiQuestions.json", "count": 10 },
-      { "subject": "English", "assetFile": "questions/englishQuestions.json", "count": 10 },
-      { "subject": "Marathi", "assetFile": "questions/marathiQuestions.json", "count": 10 }
+      {
+        "subject": "Marathi",
+        "assetFile": "questions/marathiQuestions.json",
+        "count": 5,
+        "timeMinutes": 6
+      },
+      {
+        "subject": "English",
+        "assetFile": "questions/englishQuestions.json",
+        "count": 5,
+        "timeMinutes": 6
+      },
+      {
+        "subject": "Science",
+        "assetFile": "questions/scienceQuestions.json",
+        "count": 5,
+        "timeMinutes": 6
+      }
     ]
   },
   "explore": {
     "questions": {
-      "title": "Questions",
-      "subtitle": "Practice MCQs",
-      "assetFile": "questions/all_questions.json"
+      "title": "Questions Bank",
+      "subtitle": "Chapter-wise MCQs",
+      "assetFiles": [
+        "questions/marathiQuestions.json",
+        "questions/englishQuestions.json",
+        "questions/scienceQuestions.json"
+      ]
     },
     "notes": {
-      "title": "Notes",
-      "subtitle": "Subject-wise notes",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/notes.json"
+      "title": "Notes & Study Material",
+      "subtitle": "Important short notes",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ias_notes.json"
     },
     "syllabus": {
       "title": "Syllabus",
-      "subtitle": "Complete syllabus",
+      "subtitle": "Detailed IAS Syllabus",
       "assetFiles": [
-        "syllabus/hindiSyllabus.json",
-        "syllabus/englishSyllabus.json",
-        "syllabus/marathiSyllabus.json"
+        "syllabus/marathi.json",
+        "syllabus/english.json",
+        "syllabus/math.json",
+        "syllabus/science.json"
       ]
     }
   }

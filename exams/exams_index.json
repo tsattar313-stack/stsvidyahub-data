@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "lastUpdated": "2026-10-18",
   "exams": [
     {
@@ -37,13 +37,7 @@
       "examName": "MPSC PSI Exam",
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/psi.json"
-    },
-    {
-      "examId": "mpsc_sp_exam_2026",
-      "examName": "MPSC SP Exam",
-      "category": "Maharashtra Exams",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/sp.json"
-    },
+    }, 
     {
       "examId": "mpsc_ka_exam_2026",
       "examName": "MPSC Krushi Adhikari (KA) Exam",

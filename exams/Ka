@@ -1,8 +1,8 @@
 {
   "examId": "mpsc_ka_exam_2026",
   "examName": "MPSC Agriculture Officer (KA) Exam",
-  "version": 10,
-  "lastUpdated": "2026-10-17",
+  "version": 11,
+  "lastUpdated": "2026-10-18",
   "dailyQuiz": {
     "title": "Daily Quiz",
     "subtitle": "Subject-wise daily practice sets for Agriculture Officer.",
@@ -24,7 +24,7 @@
   ],
   "mockTest": {
     "title": "Full Length KA Mock Test",
-    "subtitle": "Complete exam pattern test with sectional timing (20 Questions)",
+    "subtitle": "tofiq Questions",
     "timingType": "SECTIONAL",
     "totalQuestions": 20,
     "assetMapping": [

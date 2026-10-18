@@ -1,14 +1,8 @@
 {
   "examId": "mpsc_ka_exam_2026",
   "examName": "MPSC Agriculture Officer (KA) Exam",
-  "version": 9,
+  "version": 10,
   "lastUpdated": "2026-10-17",
-  "allowedSubjects": [
-    "Marathi",
-    "English",
-    "General Studies",
-    "Agricultural Science & Engineering"
-  ],
   "dailyQuiz": {
     "title": "Daily Quiz",
     "subtitle": "Subject-wise daily practice sets for Agriculture Officer.",

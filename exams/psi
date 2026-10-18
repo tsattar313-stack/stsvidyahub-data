@@ -1,7 +1,7 @@
 {
   "examId": "mpsc_psi",
   "examName": "MPSC PSI Exam",
-  "version": 3,
+  "version": 15,
   "lastUpdated": "2026-10-18",
   "dailyQuiz": {
     "title": "Daily Quiz",

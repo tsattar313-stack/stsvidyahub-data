@@ -1,7 +1,7 @@
 {
   "examId": "mpsc_sp",
   "examName": "MPSC SP Exam",
-  "version": 2,
+  "version": 11,
   "lastUpdated": "2026-10-18",
   "dailyQuiz": {
     "title": "Daily Quiz",

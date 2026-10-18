@@ -1,22 +1,15 @@
 {
   "examId": "Talathi",
-  "examName": "Talathi Exam",
-  "version": 8,
+  "examName": "Talathi",
+  "version": 9,
   "lastUpdated": "2026-10-16",
-  "allowedSubjects": [
-    "Marathi",
-    "English",
-    "Mathematics",
-    "Science"
-  ],
-  "dailyQuiz": {
+": {
     "title": "Daily Quiz",
     "subtitle": "Subject-wise daily practice sets.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
       "questions/marathiQuestions.json",
-      "questions/englishQuestions.json",
-      "questions/mathQuestions.json",
+      "questions/englishQuestions.json", 
       "questions/scienceQuestions.json"
     ]
   },
@@ -83,7 +76,7 @@
         "syllabus/marathi.json",
         "syllabus/english.json",
         "syllabus/math.json",
-        "syllabus/geography.json"
+        "syllabus/science.json"
       ]
     }
   }

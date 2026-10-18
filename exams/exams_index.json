@@ -1,10 +1,10 @@
 {
-  "version": 12,
+  "version": 13,
   "lastUpdated": "2026-10-17",
   "exams": [
     {
       "examId": "Talathi",
-      "examName": "Talathi Exam",
+      "examName": "Talathi",
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/talathi.json"
     },

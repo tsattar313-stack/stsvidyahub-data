@@ -1,9 +1,9 @@
 {
   "examId": "Talathi",
-  "examName": "Talathi",
-  "version": 9,
-  "lastUpdated": "2026-10-16",
-": {
+  "examName": "Talathi Exam",
+  "version": 10,
+  "lastUpdated": "2026-10-16", 
+  "dailyQuiz": {
     "title": "Daily Quiz",
     "subtitle": "Subject-wise daily practice sets.",
     "questionsPerSubject": 5,
@@ -38,13 +38,7 @@
         "assetFile": "questions/englishQuestions.json",
         "count": 5,
         "timeMinutes": 6
-      },
-      {
-        "subject": "Mathematics",
-        "assetFile": "questions/mathQuestions.json",
-        "count": 5,
-        "timeMinutes": 7
-      },
+      }, 
       {
         "subject": "Science",
         "assetFile": "questions/scienceQuestions.json",
@@ -59,8 +53,7 @@
       "subtitle": "Chapter-wise MCQs",
       "assetFiles": [
         "questions/marathiQuestions.json",
-        "questions/englishQuestions.json",
-        "questions/mathQuestions.json",
+        "questions/englishQuestions.json", 
         "questions/scienceQuestions.json"
       ]
     },

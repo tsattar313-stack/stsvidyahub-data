@@ -1,14 +1,14 @@
 {
   "examId": "sts",
   "examName": "sts exam",
-  "version": 2,
+  "version": 3,
   "lastUpdated": "2026-10-18",
   "dailyQuiz": {
     "title": "Daily Quiz",
-    "subtitle": "tofiq subject",
+    "subtitle": "tofiq",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
-         "questions/marathiQuestions.json",
+      "questions/marathiQuestions.json",
       "questions/englishQuestions.json",
       "questions/geographyQuestions.json",
       "questions/scienceQuestions.json"

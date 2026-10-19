@@ -1,6 +1,6 @@
 {
-  "version": 19,
-  "lastUpdated": "2026-10-18",
+  "version": 20,
+  "lastUpdated": "2026-10-19",
   "exams": [
     {
       "examId": "spr",
@@ -42,7 +42,7 @@
       "examId": "mpsc_ka_exam_2026",
       "examName": "MPSC Krushi Adhikari (KA) Exam",
       "category": "Maharashtra Exams",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ka.json"
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/Ka.json"
     }
   ]
 }

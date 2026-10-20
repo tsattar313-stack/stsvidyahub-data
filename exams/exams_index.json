@@ -1,7 +1,19 @@
 {
-  "version": 21,
+  "version": 22,
   "lastUpdated": "2026-10-20",
   "exams": [
+    {
+      "examId": "IND",
+      "examName": "IND Exame",
+      "category": "Maharashtra",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ind.json"
+    },
+    {
+      "examId": "MH",
+      "examName": "MH Exame",
+      "category": "Maharashtra",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mh.json"
+    },
     {
       "examId": "spr",
       "examName": "sprq",

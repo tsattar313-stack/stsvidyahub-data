@@ -1,10 +1,10 @@
 {
   "examId": "mpsc_psi",
   "examName": "MPSC PSI Exam",
-  "version": 17,
-  "lastUpdated": "2026-10-18",
+  "version": 18,
+  "lastUpdated": "2026-10-20",
   "dailyQuiz": {
-    "title": "Daily Quiz",
+    "title": "Quiz",
     "subtitle": "Subject-wise daily practice sets.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
@@ -22,7 +22,7 @@
     }
   ],
   "mockTest": {
-    "title": "Full Length MPSC PSI Mock Test",
+    "title": " Mock",
     "subtitle": "Complete (20 Questions)",
     "timingType": "SECTIONAL",
     "totalQuestions": 20,
@@ -49,7 +49,7 @@
   },
   "explore": {
     "questions": {
-      "title": "Questions Bank",
+      "title": "Questions",
       "subtitle": "Chapter-wise MCQs",
       "assetFiles": [
         "questions/marathiQuestions.json",
@@ -58,7 +58,7 @@
       ]
     },
     "notes": {
-      "title": "Notes & Study Material",
+      "title": "Notes",
       "subtitle": "Important short notes",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/psi_notes.json"
     },

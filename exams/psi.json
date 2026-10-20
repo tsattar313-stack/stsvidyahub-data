@@ -1,7 +1,7 @@
 {
   "examId": "mpsc_psi",
   "examName": "MPSC PSI Exam",
-  "version": 16,
+  "version": 17,
   "lastUpdated": "2026-10-18",
   "dailyQuiz": {
     "title": "Daily Quiz",
@@ -16,7 +16,7 @@
   "previousYearUpdates": [
     {
       "id": "psi_pyq_1",
-      "title": "MPSC PSI Previous Paper 2024",
+      "title": "update",
       "date": "2026-10-15",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/psi_2024.json"
     }

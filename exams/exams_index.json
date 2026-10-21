@@ -1,49 +1,7 @@
 {
-  "version": 29,
+  "version": 30,
   "lastUpdated": "2026-10-21",
   "exams": [
-    {
-      "examId": "ajnta",
-      "examName": "ajnta Exame",
-      "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnta.json"
-    },
-    {
-      "examId": "ajnt",
-      "examName": "ajnt Exame",
-      "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnt.json"
-    },
-    {
-      "examId": "MH",
-      "examName": "MH Exame",
-      "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mh.json"
-    },
-    {
-      "examId": "IND",
-      "examName": "IND Exame",
-      "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ind.json"
-    },
-    {
-      "examId": "spr",
-      "examName": "sprq",
-      "category": "apna exam",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/spr.json"
-    },
-     {
-      "examId": "shaikh",
-      "examName": "shaikh tofiq",
-      "category": "apna exam",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/Shaikh.json"
-    },
-     {
-      "examId": "sts",
-      "examName": "sts exam",
-      "category": "Maharashtra Exams",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/Sts.json"
-    },
     {
       "examId": "Talathi",
       "examName": "Talathi",

@@ -22,7 +22,7 @@
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/ka_2024.json"
     }
   ],
-  mockTest": {
+"mockTest": {
     "title": "Mock Test",
     "subtitle": "Complete exam pattern test with overall timing (15 Questions)",
     "examMode": "online",

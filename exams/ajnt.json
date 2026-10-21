@@ -1,7 +1,7 @@
 {
   "examId": "ajnt",
   "examName": "ajnt Exam",
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-10-21", 
   "dailyQuiz": {
     "title": "Quiz",
@@ -24,7 +24,7 @@
   "mockTest": {
     "title": "Mock Test",
     "subtitle": "Complete exam pattern test with overall timing (15 Questions)",
-    "examMode": "online",
+    "examMode": "offline",
     "timingType": "OVERALL",
     "totalQuestions": 6,
     "totalTimeMinutes": 10,

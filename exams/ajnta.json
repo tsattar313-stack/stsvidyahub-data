@@ -1,0 +1,75 @@
+{
+  "examId": "ajnta",
+  "examName": "ajnta Exam",
+  "version": 1,
+  "lastUpdated": "2026-10-21", 
+  "dailyQuiz": {
+    "title": "Quiz",
+    "subtitle": "tofiq.",
+    "questionsPerSubject": 5,
+    "assetSourceFiles": [
+      "questions/marathiQuestions.json",
+      "questions/englishQuestions.json", 
+      "questions/scienceQuestions.json"
+    ]
+  },
+  "previousYearUpdates": [
+    {
+      "id": "talathi_pyq_1",
+      "title": " update",
+      "date": "2026-10-15",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/talathi_2024.json"
+    }
+  ],
+  "mockTest": {
+    "title": "Mock Test",
+    "subtitle": "tofiq test with overall timing (15 Questions)",
+    "examMode": "offline",
+    "timingType": "OVERALL",
+    "totalQuestions": 15,
+    "totalTimeMinutes": 30,
+    "assetMapping": [
+      {
+        "subject": "Marathi",
+        "assetFile": "questions/marathiQuestions.json",
+        "count": 5,
+      },
+      {
+        "subject": "English",
+        "assetFile": "questions/englishQuestions.json",
+        "count": 5,
+      }, 
+      {
+        "subject": "Science",
+        "assetFile": "questions/scienceQuestions.json",
+        "count": 5,
+      }
+    ]
+  },
+  "explore": {
+    "questions": {
+      "title": "Questions",
+      "subtitle": "Chapter-wise MCQs",
+      "assetFiles": [
+        "questions/marathiQuestions.json",
+        "questions/englishQuestions.json", 
+        "questions/scienceQuestions.json"
+      ]
+    },
+    "notes": {
+      "title": "Notes",
+      "subtitle": "Important short notes",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/talathi_notes.json"
+    },
+    "syllabus": {
+      "title": "topics",
+      "subtitle": "Detailed Talathi Syllabus",
+      "assetFiles": [
+        "syllabus/marathi.json",
+        "syllabus/english.json",
+        "syllabus/math.json",
+        "syllabus/science.json"
+      ]
+    }
+  }
+}

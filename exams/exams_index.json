@@ -1,7 +1,19 @@
 {
-  "version": 25,
+  "version": 26,
   "lastUpdated": "2026-10-21",
   "exams": [
+    {
+      "examId": "ajnta",
+      "examName": "ajnta Exame",
+      "category": "Maharashtra",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnta.json"
+    },
+    {
+      "examId": "ajnt",
+      "examName": "ajnt Exame",
+      "category": "Maharashtra",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnt.json"
+    },
     {
       "examId": "MH",
       "examName": "MH Exame",

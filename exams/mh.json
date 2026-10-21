@@ -1,11 +1,11 @@
 {
   "examId": "MH",
   "examName": "MH Exam",
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-10-20", 
   "dailyQuiz": {
     "title": "Quiz",
-    "subtitle": "Subject-wise daily practice sets.",
+    "subtitle": "tofiq.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
       "questions/marathiQuestions.json",
@@ -23,27 +23,29 @@
   ],
   "mockTest": {
     "title": "Mock Test",
-    "subtitle": "Complete exam pattern test with sectional timing (20 Questions)",
-    "timingType": "SECTIONAL",
-    "totalQuestions": 20,
+    "subtitle": "Complete exam pattern test with overall timing (15 Questions)",
+    "examMode": "online",
+    "timingType": "OVERALL",
+    "totalQuestions": 15,
+    "totalTimeMinutes": 30,
     "assetMapping": [
       {
         "subject": "Marathi",
         "assetFile": "questions/marathiQuestions.json",
         "count": 5,
-        "timeMinutes": 6
+        "timeMinutes": 0
       },
       {
         "subject": "English",
         "assetFile": "questions/englishQuestions.json",
         "count": 5,
-        "timeMinutes": 6
+        "timeMinutes": 0
       }, 
       {
         "subject": "Science",
         "assetFile": "questions/scienceQuestions.json",
         "count": 5,
-        "timeMinutes": 6
+        "timeMinutes": 0
       }
     ]
   },

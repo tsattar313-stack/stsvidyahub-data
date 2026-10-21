@@ -1,8 +1,7 @@
 {
-  "version": 24,
+  "version": 25,
   "lastUpdated": "2026-10-21",
   "exams": [
-    
     {
       "examId": "MH",
       "examName": "MH Exame",

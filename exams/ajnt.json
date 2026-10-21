@@ -32,17 +32,17 @@
       {
         "subject": "Marathi",
         "assetFile": "questions/marathiQuestions.json",
-        "count": 2,
+        "count": 2
       },
       {
         "subject": "English",
         "assetFile": "questions/englishQuestions.json",
-        "count": 2,
+        "count": 2
       }, 
       {
         "subject": "Science",
         "assetFile": "questions/scienceQuestions.json",
-        "count": 2,
+        "count": 2
       }
     ]
   },

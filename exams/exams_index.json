@@ -1,18 +1,19 @@
 {
-  "version": 23,
-  "lastUpdated": "2026-10-20",
+  "version": 24,
+  "lastUpdated": "2026-10-21",
   "exams": [
-    {
-      "examId": "IND",
-      "examName": "IND Exame",
-      "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ind.json"
-    },
+    
     {
       "examId": "MH",
       "examName": "MH Exame",
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mh.json"
+    },
+    {
+      "examId": "IND",
+      "examName": "IND Exame",
+      "category": "Maharashtra",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ind.json"
     },
     {
       "examId": "spr",

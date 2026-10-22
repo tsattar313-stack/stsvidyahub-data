@@ -5,6 +5,8 @@
     "timingType": "OVERALL",
     "totalQuestions": 10,
     "totalTimeMinutes": 30,
+    "marksPerQuestion": 2,
+    "negativeMarking": 0.25,
 
     "questions": [
       {

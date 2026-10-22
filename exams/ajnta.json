@@ -1,11 +1,11 @@
 {
   "examId": "ajnta",
   "examName": "ajnta Exam",
-  "version": 4,
+  "version": 5,
   "lastUpdated": "2026-10-23", 
   "dailyQuiz": {
     "title": "Quiz",
-    "subtitle": "offline mode",
+    "subtitle": "notes added",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
       "questions/marathiQuestions.json",

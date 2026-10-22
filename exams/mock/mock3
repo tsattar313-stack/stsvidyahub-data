@@ -1,0 +1,125 @@
+ {
+    "title": "Demo mock test",
+    "subtitle": " with overall timing (10 Questions)",
+    "examMode": "online",
+    "timingType": "OVERALL",
+    "totalQuestions": 10,
+    "totalTimeMinutes": 8,
+
+    "questions": [
+      {
+        "question": "मराठी भाषेतील स्वर किती आहेत?",
+        "options": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "मराठी वर्णमालेत 12 स्वर मानले जातात."
+      },
+      {
+        "question": "महाराष्ट्राची राजधानी कोणती?",
+        "options": [
+          "पुणे",
+          "नाशिक",
+          "मुंबई",
+          "नागपूर"
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "मुंबई ही महाराष्ट्राची राजधानी आहे."
+      },
+
+      {
+        "question": "Choose the correct synonym of 'Happy'.",
+        "options": [
+          "Sad",
+          "Joyful",
+          "Angry",
+          "Weak"
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "Joyful means happy."
+      },
+      {
+        "question": "What is the plural of 'Child'?",
+        "options": [
+          "Childs",
+          "Childes",
+          "Children",
+          "Childrens"
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "The correct plural form of Child is Children."
+      },
+
+      {
+        "question": "मानवी शरीरात रक्त पंप करणारा अवयव कोणता?",
+        "options": [
+          "फुफ्फुस",
+          "हृदय",
+          "मूत्रपिंड",
+          "यकृत"
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "हृदय संपूर्ण शरीरात रक्त पंप करते."
+      },
+      {
+        "question": "पाण्याचे रासायनिक सूत्र काय आहे?",
+        "options": [
+          "CO₂",
+          "O₂",
+          "H₂O",
+          "NaCl"
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "पाण्याचे रासायनिक सूत्र H₂O आहे."
+      },
+
+      {
+        "question": "2, 4, 6, 8, ?",
+        "options": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "प्रत्येक संख्येत 2 ने वाढ होत आहे, त्यामुळे पुढील संख्या 10 आहे."
+      },
+      {
+        "question": "जर CAT = DBU असेल तर DOG = ?",
+        "options": [
+          "EPH",
+          "EOG",
+          "DPH",
+          "FPH"
+        ],
+        "correctOptionIndex": 0,
+        "explanation": "प्रत्येक अक्षराच्या पुढील अक्षराचा वापर केला आहे: D→E, O→P, G→H."
+      },
+
+      {
+        "question": "छत्रपती शिवाजी महाराजांचा राज्याभिषेक कोणत्या वर्षी झाला?",
+        "options": [
+          "1665",
+          "1674",
+          "1680",
+          "1659"
+        ],
+        "correctOptionIndex": 1,
+        "explanation": "छत्रपती शिवाजी महाराजांचा राज्याभिषेक 1674 मध्ये रायगडावर झाला."
+      },
+      {
+        "question": "भारताला स्वातंत्र्य कोणत्या वर्षी मिळाले?",
+        "options": [
+          "1945",
+          "1946",
+          "1947",
+          "1950"
+        ],
+        "correctOptionIndex": 2,
+        "explanation": "भारताला 15 ऑगस्ट 1947 रोजी स्वातंत्र्य मिळाले."
+      }
+    ]
+  }

@@ -1,1 +1,75 @@
+{
+  "title": "MPSC General Studies Mock Test 1",
+  "subtitle": "MPSC",
+  "examMode" : "offline",
+  "timingType": "overall",
+  "totalTimeInMinutes": 5,
+  "totalQuestions": 4,
+  "marksPerQuestion": 2,
+  "negativeMarking": 0.25,
 
+  "sections": [
+    {
+      "sectionId": 1,
+      "name": "इतिहास",
+      "questionCount": 2,
+      "timeInMinutes": 0,
+
+      "questions": [
+        {
+          "question": "छत्रपती शिवाजी महाराजांचा राज्याभिषेक कोणत्या वर्षी झाला?",
+          "options": [
+            "1645",
+            "1674",
+            "1680",
+            "1665"
+          ],
+          "correctOptionIndex": 1,
+          "explanation": "छत्रपती शिवाजी महाराजांचा राज्याभिषेक 6 जून 1674 रोजी रायगडावर झाला."
+        },
+             {
+          "question": "छत्रपती शिवाजी कोणत्या वर्षी झाला?",
+          "options": [
+            "1645",
+            "1674",
+            "1680",
+            "1665"
+          ],
+          "correctOptionIndex": 3
+        }
+      ]
+    },
+
+    {
+      "sectionId": 2,
+      "name": "भूगोल",
+      "questionCount": 10,
+      "timeInMinutes": 0,
+
+      "questions": [
+        {
+          "question": "महाराष्ट्रातील सर्वात लांब नदी कोणती?",
+          "options": [
+            "गोदावरी",
+            "कृष्णा",
+            "भीमा",
+            "तापी"
+          ],
+          "correctOptionIndex": 0,
+          "explanation": "गोदावरी ही महाराष्ट्रातील सर्वात लांब नदी आहे."
+        },
+         {
+          "question": "लांब नदी कोणती?",
+          "options": [
+            "गोदावरी",
+            "कृष्णा",
+            "भीमा",
+            "तापी"
+          ],
+          "correctOptionIndex": 0,
+          "explanation": "गोदावरी ही महाराष्ट्रातील सर्वात लांब नदी आहे."
+        }
+      ]
+    }
+  ]
+}

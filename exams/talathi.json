@@ -1,11 +1,11 @@
 {
   "examId": "Talathi",
   "examName": "Talathi Exam",
-  "version": 10,
+  "version": 11,
   "lastUpdated": "2026-10-16", 
   "dailyQuiz": {
     "title": "Daily Quiz",
-    "subtitle": "Subject-wise daily practice sets.",
+    "subtitle": "mock added",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
       "questions/marathiQuestions.json",
@@ -18,7 +18,11 @@
       "id": "talathi_pyq_1",
       "title": "Talathi Bharti Previous Paper 2024",
       "date": "2026-10-15",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/talathi_2024.json"
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock1.json"
+      
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock2.json"
+      
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock3.json"
     }
   ],
   "mockTest": {

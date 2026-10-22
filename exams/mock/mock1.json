@@ -1,75 +1,151 @@
 {
-  "title": "MPSC General Studies Mock Test 1",
-  "subtitle": "MPSC",
-  "examMode" : "offline",
-  "timingType": "overall",
-  "totalTimeInMinutes": 5,
-  "totalQuestions": 4,
-  "marksPerQuestion": 2,
-  "negativeMarking": 0.25,
+  "mockTest": {
+    "title": "Full Length Talathi Mock Test",
+    "subtitle": "Complete exam pattern test with sectional timing (10 Questions)",
+    "examMode": "online",
+    "timingType": "SECTIONAL",
+    "totalQuestions": 10,
+    "marksPerQuestion": 2,
+    "negativeMarking": 0.25,
 
-  "sections": [
-    {
-      "sectionId": 1,
-      "name": "इतिहास",
-      "questionCount": 2,
-      "timeInMinutes": 0,
-
+    "Marathi": {
+      "timeMinutes": 1,
       "questions": [
         {
-          "question": "छत्रपती शिवाजी महाराजांचा राज्याभिषेक कोणत्या वर्षी झाला?",
+          "question": "मराठी भाषेतील स्वर किती आहेत?",
           "options": [
-            "1645",
-            "1674",
-            "1680",
-            "1665"
+            "10",
+            "12",
+            "14",
+            "16"
           ],
           "correctOptionIndex": 1,
-          "explanation": "छत्रपती शिवाजी महाराजांचा राज्याभिषेक 6 जून 1674 रोजी रायगडावर झाला."
+          "explanation": "मराठी वर्णमालेत 12 स्वर मानले जातात."
         },
-             {
-          "question": "छत्रपती शिवाजी कोणत्या वर्षी झाला?",
+        {
+          "question": "महाराष्ट्राची राजधानी कोणती?",
           "options": [
-            "1645",
-            "1674",
-            "1680",
-            "1665"
+            "पुणे",
+            "नाशिक",
+            "मुंबई",
+            "नागपूर"
           ],
-          "correctOptionIndex": 3
+          "correctOptionIndex": 2,
+          "explanation": "मुंबई ही महाराष्ट्राची राजधानी आहे."
         }
       ]
     },
 
-    {
-      "sectionId": 2,
-      "name": "भूगोल",
-      "questionCount": 10,
-      "timeInMinutes": 0,
-
+    "English": {
+      "timeMinutes": 1,
       "questions": [
         {
-          "question": "महाराष्ट्रातील सर्वात लांब नदी कोणती?",
+          "question": "Choose the correct synonym of 'Happy'.",
           "options": [
-            "गोदावरी",
-            "कृष्णा",
-            "भीमा",
-            "तापी"
+            "Sad",
+            "Joyful",
+            "Angry",
+            "Weak"
           ],
-          "correctOptionIndex": 0,
-          "explanation": "गोदावरी ही महाराष्ट्रातील सर्वात लांब नदी आहे."
+          "correctOptionIndex": 1,
+          "explanation": "Joyful means happy."
         },
-         {
-          "question": "लांब नदी कोणती?",
+        {
+          "question": "What is the plural of 'Child'?",
           "options": [
-            "गोदावरी",
-            "कृष्णा",
-            "भीमा",
-            "तापी"
+            "Childs",
+            "Childes",
+            "Children",
+            "Childrens"
+          ],
+          "correctOptionIndex": 2,
+          "explanation": "The correct plural form of Child is Children."
+        }
+      ]
+    },
+
+    "Science": {
+      "timeMinutes": 1,
+      "questions": [
+        {
+          "question": "मानवी शरीरात रक्त पंप करणारा अवयव कोणता?",
+          "options": [
+            "फुफ्फुस",
+            "हृदय",
+            "मूत्रपिंड",
+            "यकृत"
+          ],
+          "correctOptionIndex": 1,
+          "explanation": "हृदय संपूर्ण शरीरात रक्त पंप करते."
+        },
+        {
+          "question": "पाण्याचे रासायनिक सूत्र काय आहे?",
+          "options": [
+            "CO₂",
+            "O₂",
+            "H₂O",
+            "NaCl"
+          ],
+          "correctOptionIndex": 2,
+          "explanation": "पाण्याचे रासायनिक सूत्र H₂O आहे."
+        }
+      ]
+    },
+
+    "Reasoning": {
+      "timeMinutes": 1,
+      "questions": [
+        {
+          "question": "2, 4, 6, 8, ?",
+          "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+          ],
+          "correctOptionIndex": 1,
+          "explanation": "प्रत्येक संख्येत 2 ने वाढ होत आहे, त्यामुळे पुढील संख्या 10 आहे."
+        },
+        {
+          "question": "जर CAT = DBU असेल तर DOG = ?",
+          "options": [
+            "EPH",
+            "EOG",
+            "DPH",
+            "FPH"
           ],
           "correctOptionIndex": 0,
-          "explanation": "गोदावरी ही महाराष्ट्रातील सर्वात लांब नदी आहे."
+          "explanation": "प्रत्येक अक्षराच्या पुढील अक्षराचा वापर केला आहे."
+        }
+      ]
+    },
+
+    "History": {
+      "timeMinutes": 1,
+      "questions": [
+        {      
+          "question": "छत्रपती शिवाजी महाराजांचा राज्याभिषेक कोणत्या वर्षी झाला?",
+          "options": [
+            "1665",
+            "1674",
+            "1680",
+            "1659"
+          ],
+          "correctOptionIndex": 1,
+          "explanation": "छत्रपती शिवाजी महाराजांचा राज्याभिषेक 1674 मध्ये रायगडावर झाला."
+        },
+        {
+          "question": "भारताला स्वातंत्र्य कोणत्या वर्षी मिळाले?",
+          "options": [
+            "1945",
+            "1946",
+            "1947",
+            "1950"
+          ],
+          "correctOptionIndex": 2,
+          "explanation": "भारताला 15 ऑगस्ट 1947 रोजी स्वातंत्र्य मिळाले."
         }
       ]
     }
-  ]
+  }
 }

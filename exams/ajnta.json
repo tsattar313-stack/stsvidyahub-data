@@ -1,8 +1,8 @@
 {
   "examId": "ajnta",
   "examName": "ajnta Exam",
-  "version": 2,
-  "lastUpdated": "2026-10-22", 
+  "version": 3,
+  "lastUpdated": "2026-10-23", 
   "dailyQuiz": {
     "title": "Quiz",
     "subtitle": "offline mode",
@@ -16,9 +16,14 @@
   "previousYearUpdates": [
     {
       "id": "talathi_pyq_1",
-      "title": " update",
+      "title": " changes",
       "date": "2026-10-15",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/talathi_2024.json"
+      
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock1.json"
+      
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock2.json"
+      
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock3.json"
     }
   ],
   "mockTest": {
@@ -59,7 +64,7 @@
     "notes": {
       "title": "Notes",
       "subtitle": "Important short notes",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/talathi_notes.json"
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/notes.json"
     },
     "syllabus": {
       "title": "topics",

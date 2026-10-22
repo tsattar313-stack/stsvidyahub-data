@@ -1,7 +1,7 @@
 {
   "examId": "ajnta",
   "examName": "ajnta Exam",
-  "version": 3,
+  "version": 4,
   "lastUpdated": "2026-10-23", 
   "dailyQuiz": {
     "title": "Quiz",
@@ -64,7 +64,7 @@
     "notes": {
       "title": "Notes",
       "subtitle": "Important short notes",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/notes.json"
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/notes/not.json"
     },
     "syllabus": {
       "title": "topics",

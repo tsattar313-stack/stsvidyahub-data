@@ -1,10 +1,10 @@
 {
   "examId": "mpsc_ka_exam_2026",
   "examName": "MPSC Agriculture Officer (KA) Exam",
-  "version": 14,
+  "version": 15,
   "lastUpdated": "2026-10-18",
   "dailyQuiz": {
-    "title": "Daily Quiz",
+    "title": "Daily mock Quiz",
     "subtitle": "Subject-wise daily practice sets for Agriculture Officer.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
@@ -14,14 +14,26 @@
       "questions/scienceQuestions.json"
     ]
   },
-  "previousYearUpdates": [
-    {
-      "id": "ka_pyq_1",
-      "title": "MPSC Agriculture Officer Previous Paper 2024",
-      "date": "2026-10-15",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/ka_2024.json"
-    }
-  ],
+ "previousYearUpdates": [
+  {
+    "id": "pyq_1",
+    "title": "Talathi Bharti Previous Paper 2024 - Set 1",
+    "date": "2026-10-15",
+    "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock1.json"
+  },
+  {
+    "id": "pyq_2",
+    "title": "Talathi Bharti Previous Paper 2023 - Set 2",
+    "date": "2026-10-15",
+    "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock2.json"
+  },
+  {
+    "id": "pyq_3",
+    "title": "Talathi Bharti Previous Paper 2022 - Set 3",
+    "date": "2026-10-15",
+    "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock3.json"
+  }
+],
   "mockTest": {
     "title": "Full Length KA Mock Test",
     "subtitle": "tofiq Questions",

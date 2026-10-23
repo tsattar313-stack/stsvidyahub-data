@@ -1,7 +1,7 @@
 {
   "examId": "MH",
   "examName": "MH Exam",
-  "version": 3,
+  "version": 4,
   "lastUpdated": "2026-10-23", 
   "dailyQuiz": {
     "title": "Quiz",
@@ -60,7 +60,7 @@
       ]
     },
     "notes": {
-      "title": "Notes",
+      "title": "Notes updating..",
       "subtitle": "Important short notes",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/notes/not1.json"
     },

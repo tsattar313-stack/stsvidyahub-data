@@ -1,10 +1,10 @@
 {
   "examId": "mpsc_psi",
   "examName": "MPSC PSI Exam",
-  "version": 18,
+  "version": 19,
   "lastUpdated": "2026-10-20",
   "dailyQuiz": {
-    "title": "Quiz",
+    "title": "mock hai",
     "subtitle": "Subject-wise daily practice sets.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
@@ -13,14 +13,26 @@
       "questions/scienceQuestions.json"
     ]
   },
-  "previousYearUpdates": [
-    {
-      "id": "psi_pyq_1",
-      "title": "update",
-      "date": "2026-10-15",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/psi_2024.json"
-    }
-  ],
+"previousYearUpdates": [
+  {
+    "id": "pyq_1",
+    "title": "Talathi Bharti Previous Paper 2024 - Set 1",
+    "date": "2026-10-15",
+    "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock1.json"
+  },
+  {
+    "id": "pyq_2",
+    "title": "Talathi Bharti Previous Paper 2023 - Set 2",
+    "date": "2026-10-15",
+    "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock2.json"
+  },
+  {
+    "id": "pyq_3",
+    "title": "Talathi Bharti Previous Paper 2022 - Set 3",
+    "date": "2026-10-15",
+    "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock3.json"
+  }
+],
   "mockTest": {
     "title": " Mock",
     "subtitle": "Complete (20 Questions)",

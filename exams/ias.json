@@ -1,16 +1,19 @@
 {
   "examId": "ias",
   "examName": "IAS Exam",
-  "version": 2,
+  "version": 3,
   "lastUpdated": "2026-10-18",
   "dailyQuiz": {
-    "title": "Daily Quiz",
+    "title": "mathed",
     "subtitle": "Subject-wise daily practice sets.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
       "questions/marathiQuestions.json",
       "questions/englishQuestions.json",
-      "questions/scienceQuestions.json"
+      "questions/scienceQuestions.json",
+      " questions/maharashtraQuestions.json"
+  
+      
     ]
   },
   "previousYearUpdates": [
@@ -31,19 +34,25 @@
         "subject": "Marathi",
         "assetFile": "questions/marathiQuestions.json",
         "count": 5,
-        "timeMinutes": 6
+        "timeMinutes": 5
       },
       {
         "subject": "English",
         "assetFile": "questions/englishQuestions.json",
         "count": 5,
-        "timeMinutes": 6
+        "timeMinutes": 5
       },
       {
         "subject": "Science",
-        "assetFile": "questions/scienceQuestions.json",
+        "assetFile": "questions/mathQuestions.json",
         "count": 5,
-        "timeMinutes": 6
+        "timeMinutes": 5
+      }, 
+      {
+        "subject": "Science",
+        "assetFile": "questions/resoningQuestions.json",
+        "count": 5,
+        "timeMinutes": 5
       }
     ]
   },

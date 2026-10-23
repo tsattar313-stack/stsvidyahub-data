@@ -1,10 +1,10 @@
 {
   "examId": "ias",
   "examName": "IAS Exam",
-  "version": 3,
+  "version": 4,
   "lastUpdated": "2026-10-18",
   "dailyQuiz": {
-    "title": "mathed",
+    "title": "mocked 5d",
     "subtitle": "Subject-wise daily practice sets.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
@@ -21,7 +21,7 @@
       "id": "ias_pyq_1",
       "title": "IAS Previous Paper 2025",
       "date": "2026-10-14",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/ias_2025.json"
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock5.json"
     }
   ],
   "mockTest": {

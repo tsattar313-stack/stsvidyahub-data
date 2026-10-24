@@ -12,7 +12,7 @@
       "timeMinutes": 1,
       "questions": [
         {
-          "question": "मराठी भाषेतील स्वर किती आहेत?",
+          "question": "मराठी भाषेतील स्वर किती आहेत? mock 1",
           "options": [
             "10",
             "12",

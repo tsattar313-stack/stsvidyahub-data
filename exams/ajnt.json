@@ -1,10 +1,10 @@
 {
   "examId": "ajnt",
   "examName": "ajnt Exam",
-  "version": 3,
+  "version": 2,
   "lastUpdated": "2026-10-21", 
   "dailyQuiz": {
-    "title": "mock test",
+    "title": "updatings",
     "subtitle": "tofiq.",
     "questionsPerSubject": 2,
     "assetSourceFiles": [
@@ -15,9 +15,9 @@
   },
   "previousYearUpdates": [
     {
-      "id": "talathi_pyq_1",
+      "id": "talathi_pyq_2",
       "title": " update",
-      "date": "2026-10-15",
+      "date": "2026-10-24",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/pyq/talathi_2024.json"
     }
   ],

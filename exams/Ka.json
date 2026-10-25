@@ -1,10 +1,10 @@
 {
   "examId": "mpsc_ka_exam_2026",
   "examName": "MPSC Agriculture Officer (KA) Exam",
-  "version": 15,
+  "version": 16,
   "lastUpdated": "2026-10-18",
   "dailyQuiz": {
-    "title": "Daily mock Quiz",
+    "title": "no question s",
     "subtitle": "Subject-wise daily practice sets for Agriculture Officer.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
@@ -67,16 +67,7 @@
     ]
   },
   "explore": {
-    "questions": {
-      "title": "Questions Bank",
-      "subtitle": "Chapter-wise MCQs",
-      "assetFiles": [
-        "questions/ka_marathi_questions.json",
-        "questions/ka_english_questions.json",
-        "questions/ka_gs_questions.json",
-        "questions/ka_agri_questions.json"
-      ]
-    },
+    
     "notes": {
       "title": "Notes & Study Material",
       "subtitle": "Important short notes",

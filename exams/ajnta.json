@@ -1,7 +1,7 @@
 {
   "examId": "ajnta",
   "examName": "ajnta Exam",
-  "version": 6,
+  "version": 7,
   "lastUpdated": "2026-10-23", 
   "dailyQuiz": {
     "title": "Quiz",
@@ -13,6 +13,11 @@
       "questions/scienceQuestions.json"
     ]
   },
+   "youtubePlaylist": {
+  "title": "Talathi Video Lectures",
+  "subtitle": "Important chapter-wise video classes",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLGivTDRACSNs"
+},
   "previousYearUpdates": [
     {
       "id": "talathi_pyq_1",

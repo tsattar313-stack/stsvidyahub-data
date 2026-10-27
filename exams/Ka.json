@@ -1,8 +1,14 @@
 {
   "examId": "mpsc_ka_exam_2026",
   "examName": "MPSC Agriculture Officer (KA) Exam",
-  "version": 18,
+  "version": 19,
   "lastUpdated": "2026-10-18",
+
+   "youtubePlaylist": {
+  "title": "Talathi Video Lectures",
+  "subtitle": "Important chapter-wise video classes",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLGivTDRACSNs"
+},
   "dailyQuiz": {
     "title": "youtube",
     "subtitle": "Subject-wise daily practice sets for Agriculture Officer.",
@@ -73,11 +79,7 @@
       "subtitle": "Important short notes",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ka_notes.json"
     },
-    "youtubePlaylist": {
-  "title": "Talathi Video Lectures",
-  "subtitle": "Important chapter-wise video classes",
-  "playlistUrl": "https://www.youtube.com/playlist?list=PLGivTDRACSNs"
-},
+   
     "syllabus": {
       "title": "Syllabus",
       "subtitle": "Detailed MPSC KA Syllabus",

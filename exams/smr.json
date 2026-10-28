@@ -1,0 +1,86 @@
+{
+  "examId": "smr",
+  "examName": "smr exam",
+  "version": 1,
+  "lastUpdated": "2026-10-28", 
+  "dailyQuiz": {
+    "title": "Youtybe",
+    "subtitle": "notes added",
+    "questionsPerSubject": 5,
+    "assetSourceFiles": [
+      "questions/marathiQuestions.json",
+      "questions/englishQuestions.json", 
+      "questions/scienceQuestions.json"
+    ]
+  },
+      "youtubePlaylist": {
+  "title": "Talathi Video Lectures",
+  "subtitle": "Important chapter-wise video classes",
+  "playlistUrl": "https://www.youtube.com/playlist?list=PLGivTDRACSNs"
+},
+  "previousYearUpdates": [
+    {
+      "id": "talathi_pyq_1",
+      "title": "Talathi Bharti Previous Paper 2024",
+      "date": "2026-10-15",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock1.json",
+      
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock2.json",
+      
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mock/mock3.json"
+    }
+  ],
+  "mockTest": {
+    "title": "Full Length Talathi Mock Test",
+    "subtitle": "Complete exam pattern test with sectional timing (20 Questions)",
+    "timingType": "SECTIONAL",
+    "totalQuestions": 20,
+    "assetMapping": [
+      {
+        "subject": "Marathi",
+        "assetFile": "questions/marathiQuestions.json",
+        "count": 5,
+        "timeMinutes": 6
+      },
+      {
+        "subject": "English",
+        "assetFile": "questions/englishQuestions.json",
+        "count": 5,
+        "timeMinutes": 6
+      }, 
+      {
+        "subject": "Science",
+        "assetFile": "questions/scienceQuestions.json",
+        "count": 5,
+        "timeMinutes": 6
+      }
+    ]
+  },
+  "explore": {
+    "questions": {
+      "title": "Questions Bank",
+      "subtitle": "Chapter-wise MCQs",
+      "assetFiles": [
+        "questions/marathiQuestions.json",
+        "questions/englishQuestions.json", 
+        "questions/scienceQuestions.json"
+      ]
+    },
+    "notes": {
+      "title": "Notes Section",
+      "subtitle": "Important short notes",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/notes/not1.json"
+    },
+
+    "syllabus": {
+      "title": "Syllabus",
+      "subtitle": "Detailed Talathi Syllabus",
+      "assetFiles": [
+        "syllabus/marathi.json",
+        "syllabus/english.json",
+        "syllabus/math.json",
+        "syllabus/science.json"
+      ]
+    }
+  }
+}

@@ -1,7 +1,13 @@
 {
-  "version": 32,
-  "lastUpdated": "2026-10-23",
+  "version": 33,
+  "lastUpdated": "2026-10-28",
   "exams": [
+       {
+      "examId": "smr",
+      "examName": "smr exam",
+      "category": "Maharashtra",
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/smr.json"
+    },
     {
       "examId": "ajnta",
       "examName": "ajnta Exame",

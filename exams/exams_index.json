@@ -1,12 +1,19 @@
 {
-  "version": 33,
+  "version": 34,
   "lastUpdated": "2026-10-28",
   "exams": [
        {
       "examId": "smr",
       "examName": "smr exam",
       "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/smr.json"
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/smr.json",
+         "price": 30,
+      "details": [
+        "Advanced level test series and quizzes.",
+        "Subject-wise comprehensive notes.",
+        "Special doubt clearing sessions included.",
+        "Direct mentorship and study guides."
+      ]
     },
     {
       "examId": "ajnta",
@@ -18,7 +25,14 @@
       "examId": "ajnt",
       "examName": "ajnt Exame",
       "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnt.json"
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnt.json",
+      "price": "Free",
+      "details": [
+        "Advanced level test series and quizzes.",
+        "Subject-wise comprehensive notes.",
+        "Special doubt clearing sessions included.",
+        "Direct mentorship and study guides."
+      ]
     },
     {
       "examId": "MH",
@@ -30,7 +44,14 @@
       "examId": "IND",
       "examName": "IND Exame",
       "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ind.json"
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ind.json",
+      "price": 60,
+      "details": [
+        "Advanced level test series and quizzes.",
+        "Subject-wise comprehensive notes.",
+        "Special doubt clearing sessions included.",
+        "Direct mentorship and study guides."
+      ]
     },
     {
       "examId": "spr",

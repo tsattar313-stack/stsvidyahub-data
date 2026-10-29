@@ -1,7 +1,7 @@
 {
   "examId": "smr",
   "examName": "smr exam",
-  "version": 2,
+  "version": 3,
   "lastUpdated": "2026-10-28", 
   "dailyQuiz": {
     "title": "Youtybe",
@@ -38,19 +38,19 @@
     "assetMapping": [
       {
         "subject": "Marathi",
-        "assetFile": "questions/marathiQuestions.json",
+        "assetFile": "questions/resoningQuestions.json",
         "count": 5,
         "timeMinutes": 6
       },
       {
         "subject": "English",
-        "assetFile": "questions/englishQuestions.json",
+        "assetFile": "questions/resoningQuestions.json",
         "count": 5,
         "timeMinutes": 6
       }, 
       {
         "subject": "Science",
-        "assetFile": "questions/scienceQuestions.json",
+        "assetFile": "questions/resoningQuestions.json",
         "count": 5,
         "timeMinutes": 6
       }

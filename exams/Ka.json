@@ -1,8 +1,6 @@
 {
   "examId": "mpsc_ka_exam_2026",
   "examName": "MPSC Agriculture Officer (KA) Exam",
-  "version": 19,
-  "lastUpdated": "2026-10-18",
 
    "youtubePlaylist": {
   "title": "Talathi Video Lectures",
@@ -10,7 +8,7 @@
   "playlistUrl": "https://www.youtube.com/playlist?list=PLGivTDRACSNs"
 },
   "dailyQuiz": {
-    "title": "youtube",
+    "title": "new virsion checking",
     "subtitle": "Subject-wise daily practice sets for Agriculture Officer.",
     "questionsPerSubject": 5,
     "assetSourceFiles": [

@@ -1,8 +1,6 @@
 {
   "examId": "mpsc_psi",
   "examName": "MPSC PSI Exam",
-  "version": 19,
-  "lastUpdated": "2026-10-20",
   "dailyQuiz": {
     "title": "mock hai",
     "subtitle": "Subject-wise daily practice sets.",

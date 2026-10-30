@@ -31,7 +31,7 @@
   "mockTest": {
     "title": "Full Length Talathi Mock Test",
     "subtitle": "Complete exam pattern test with sectional timing (20 Questions)",
-    "allowedDays": ["TUESDAY", "THURSDAY", "SATURDAY", "SUNDAY"],
+    "allowedDays": ["TUESDAY", "THURSDAY", "SUNDAY"],
     "timingType": "SECTIONAL",
     "totalQuestions": 20,
     "assetMapping": [

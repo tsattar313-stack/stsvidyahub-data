@@ -1,8 +1,6 @@
 {
   "examId": "sts",
   "examName": "sts exam",
-  "version": 3,
-  "lastUpdated": "2026-10-18",
   "dailyQuiz": {
     "title": "Daily Quiz",
     "subtitle": "tofiq",

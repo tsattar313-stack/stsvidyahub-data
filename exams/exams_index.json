@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "lastUpdated": "2026-10-28",
   "exams": [
        {
@@ -64,13 +64,7 @@
       "examName": "shaikh tofiq",
       "category": "apna exam",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/Shaikh.json"
-    },
-     {
-      "examId": "sts",
-      "examName": "sts exam",
-      "category": "Maharashtra Exams",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/Sts.json"
-    },
+     }, 
     {
       "examId": "Talathi",
       "examName": "Talathi",

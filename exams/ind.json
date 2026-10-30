@@ -1,8 +1,6 @@
 {
   "examId": "IND",
   "examName": "IND Exam",
-  "version": 2,
-  "lastUpdated": "2026-10-21", 
   "dailyQuiz": {
     "title": "Quiz",
     "subtitle": "tofiq.",

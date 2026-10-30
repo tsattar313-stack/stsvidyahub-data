@@ -1,8 +1,6 @@
 {
   "examId": "Talathi",
   "examName": "Talathi Exam",
-  "version": 19,
-  "lastUpdated": "2026-10-23", 
   "dailyQuiz": {
     "title": "allowdays",
     "subtitle": "notes added",

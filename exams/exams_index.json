@@ -3,6 +3,7 @@
        {
       "examId": "smr",
       "examName": "virsion apdate checking exam",
+      "version": 1,
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/smr.json",
          "price": 30,
@@ -16,12 +17,14 @@
     {
       "examId": "ajnta",
       "examName": "ajnta Exame",
+      "version": 1,
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnta.json"
     },
     {
       "examId": "ajnt",
       "examName": "ajnt Exame",
+      "version": 1,
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnt.json",
       "price": "Free",
@@ -35,12 +38,14 @@
     {
       "examId": "MH",
       "examName": "MH Exame",
+      "version": 1,
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mh.json"
     },
     {
       "examId": "IND",
       "examName": "IND Exame",
+      "version": 1,
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ind.json",
       "price": 60,
@@ -54,36 +59,42 @@
     {
       "examId": "spr",
       "examName": "sprq",
+      "version": 1,
       "category": "apna exam",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/spr.json"
     },
      {
       "examId": "shaikh",
       "examName": "shaikh tofiq",
+       "version": 1,
       "category": "apna exam",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/Shaikh.json"
      }, 
     {
       "examId": "Talathi",
       "examName": "Talathi",
+      "version": 1,
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/talathi.json"
     },
     {
       "examId": "ias_exam_2026",
       "examName": "IAS Competitive Exam",
+      "version": 1,
       "category": "UPSC",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ias.json"
     },
     {
       "examId": "mpsc_psi_exam_2026",
       "examName": "MPSC PSI Exam",
+      "version": 1,
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/psi.json"
     }, 
     {
       "examId": "mpsc_ka_exam_2026",
       "examName": "MPSC Krushi Adhikari (KA) Exam",
+      "version": 1,
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/Ka.json"
     }

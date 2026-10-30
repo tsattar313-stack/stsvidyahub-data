@@ -1,10 +1,10 @@
 {
   "examId": "Talathi",
   "examName": "Talathi Exam",
-  "version": 18,
+  "version": 19,
   "lastUpdated": "2026-10-23", 
   "dailyQuiz": {
-    "title": "Youtybe",
+    "title": "allowdays",
     "subtitle": "notes added",
     "questionsPerSubject": 5,
     "assetSourceFiles": [
@@ -33,6 +33,7 @@
   "mockTest": {
     "title": "Full Length Talathi Mock Test",
     "subtitle": "Complete exam pattern test with sectional timing (20 Questions)",
+    "allowedDays": ["TUESDAY", "THURSDAY", "SATURDAY", "SUNDAY"],
     "timingType": "SECTIONAL",
     "totalQuestions": 20,
     "assetMapping": [

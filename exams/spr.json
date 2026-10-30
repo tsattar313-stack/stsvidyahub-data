@@ -1,8 +1,6 @@
 {
   "examId": "spr",
   "examName": "sprq",
-  "version": 2,
-  "lastUpdated": "2026-10-18",
   "dailyQuiz": {
     "title": "Daily Quiz",
     "subtitle": "Subject-wise daily practice sets for Agriculture Officer.",

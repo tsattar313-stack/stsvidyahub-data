@@ -6,7 +6,7 @@
       "version": 1,
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnta.json"
-      "price": 999,
+      "price": 999
     },
     {
       "examId": "ajnt",
@@ -28,7 +28,7 @@
       "version": 1,
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mh.json"
-      "price": 30,
+      "price": 30
     },
     {
       "examId": "IND",
@@ -78,7 +78,7 @@
       "version": 1,
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/psi.json"
-      "price": 399,
+      "price": 399
     }, 
     {
       "examId": "mpsc_ka_exam_2026",

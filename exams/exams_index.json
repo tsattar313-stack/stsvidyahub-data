@@ -1,25 +1,12 @@
 {
   "exams": [
-       {
-      "examId": "smr",
-      "examName": "virsion apdate checking exam",
-      "version": 1,
-      "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/smr.json",
-         "price": 30,
-      "details": [
-        "Advanced level test series and quizzes.",
-        "Subject-wise comprehensive notes.",
-        "Special doubt clearing sessions included.",
-        "Direct mentorship and study guides."
-      ]
-    },
     {
       "examId": "ajnta",
       "examName": "ajnta Exame",
       "version": 1,
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnta.json"
+      price": 999,
     },
     {
       "examId": "ajnt",
@@ -41,6 +28,7 @@
       "version": 1,
       "category": "Maharashtra",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mh.json"
+      price": 30,
     },
     {
       "examId": "IND",
@@ -90,6 +78,7 @@
       "version": 1,
       "category": "Maharashtra Exams",
       "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/psi.json"
+      price": 399,
     }, 
     {
       "examId": "mpsc_ka_exam_2026",

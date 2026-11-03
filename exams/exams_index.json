@@ -5,8 +5,14 @@
       "examName": "ajnta Exame",
       "version": 1,
       "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnta.json"
-      "price": 999
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/ajnta.json",
+      "price": 999,
+          "details": [
+        "Advanced level test series and quizzes.",
+        "Subject-wise comprehensive notes.",
+        "Special doubt clearing sessions included.",
+        "Direct mentorship and study guides."
+          ]
     },
     {
       "examId": "ajnt",
@@ -27,8 +33,14 @@
       "examName": "MH Exame",
       "version": 1,
       "category": "Maharashtra",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mh.json"
-      "price": 30
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/mh.json",
+      "price": 30,
+          "details": [
+        "Advanced level test series and quizzes.",
+        "Subject-wise comprehensive notes.",
+        "Special doubt clearing sessions included.",
+        "Direct mentorship and study guides."
+          ]
     },
     {
       "examId": "IND",
@@ -77,8 +89,14 @@
       "examName": "MPSC PSI Exam",
       "version": 1,
       "category": "Maharashtra Exams",
-      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/psi.json"
-      "price": 399
+      "fileUrl": "https://cdn.jsdelivr.net/gh/tsattar313-stack/stsvidyahub-data@main/exams/psi.json",
+      "price": 399,
+          "details": [
+        "Advanced level test series and quizzes.",
+        "Subject-wise comprehensive notes.",
+        "Special doubt clearing sessions included.",
+        "Direct mentorship and study guides."
+          ]
     }, 
     {
       "examId": "mpsc_ka_exam_2026",
